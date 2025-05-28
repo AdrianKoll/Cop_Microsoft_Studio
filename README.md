@@ -1,6 +1,4 @@
-# Resumo do Desafio - Copilot Studio
-
-## Entendendo o Desafio
+# Desafio - Copilot Studio
 
 O objetivo deste desafio foi criar o meu primeiro Copiloto utilizando o Microsoft Copilot Studio. Durante a experiência, explorei a documentação e a demonstração prática da ferramenta, aprendendo como configurar o ambiente, integrar funcionalidades e desenvolver um assistente que automatize tarefas e auxilie na interação com o usuário.
 
